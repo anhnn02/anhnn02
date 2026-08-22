@@ -17,14 +17,9 @@ I enjoy building clean, responsive, and maintainable web applications with a foc
 
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,figma,postman)](https://skillicons.dev)
 
-### 💡 What I Work With
+### 💡 Focus
 
-* 🎨 **Frontend:** Vue.js, Nuxt.js, React, Next.js, TypeScript, JavaScript, Tailwind CSS, Element Plus
-* 🧩 **UI/UX:** Responsive design, reusable components, design systems, user-focused interfaces
-* ⚙️ **Backend:** Node.js, Express.js, RESTful APIs, MongoDB, Mongoose
-* 🔄 **Development:** API integration, state management with Pinia & Redux, authentication, pagination, and performance optimization
-* 🔧 **Workflow:** Git, GitHub, GitLab, Postman
-
-### 🚀 Currently
-
-I'm continuously improving my skills in **Frontend architecture, UI/UX, performance optimization, and full-stack development** through real-world experience and personal projects.
+* 🎨 **UI/UX** — Responsive & reusable interfaces
+* 🧩 **Frontend** — Component architecture & state management
+* ⚡ **Performance** — Fast, maintainable & user-focused applications
+* 🔗 **Full-stack** — REST API integration & backend collaboration
