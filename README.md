@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ANN ANH
+# 👋 Hi, I'm ANN
 
 I'm a **Frontend Developer** with a strong focus on **UI/UX and modern web development**.
 I enjoy building clean, responsive, and maintainable web applications with a focus on user experience and practical solutions.
